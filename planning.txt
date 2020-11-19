@@ -1,0 +1,3 @@
+Model File-name: stickynotes.cs
+columns: 
+public string  Notetext 
