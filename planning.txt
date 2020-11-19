@@ -1,3 +1,7 @@
 Model File-name: stickynotes.cs
 columns: 
 public string  Notetext 
+
+Automatically set order and post time 
+Look like sticky notes (make em cute) make via javascript-post to database 
+ability to order and reorder stickies 
